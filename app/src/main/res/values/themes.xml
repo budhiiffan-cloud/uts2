@@ -1,0 +1,13 @@
+<resources>
+    <style name="Base.Theme.Uts2" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/tama_green</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/tama_green</item>
+        <item name="colorSecondaryContainer">#E8F2EC</item>
+        <item name="colorOnSecondaryContainer">@color/tama_green</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/tama_background</item>
+        <item name="android:colorAccent">@color/tama_green</item>
+    </style>
+    <style name="Theme.Uts2" parent="Base.Theme.Uts2" />
+</resources>

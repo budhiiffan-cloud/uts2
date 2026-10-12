@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:icon="@drawable/ic_home" android:title="Beranda" />
+    <item android:id="@+id/nav_catalog" android:icon="@drawable/ic_catalog" android:title="Katalog" />
+    <item android:id="@+id/nav_orders" android:icon="@drawable/ic_orders" android:title="Pesanan" />
+    <item android:id="@+id/nav_profile" android:icon="@drawable/ic_profile" android:title="Profil" />
+</menu>
